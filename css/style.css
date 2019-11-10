@@ -44,11 +44,21 @@
 span{
     color: #e0457b;
     font-weight: bold;
-    font-size: 45px;
+    font-size: 38px;
 }
 
 .codes{
     font-size: 38px;
+}
+
+footer{
+    background-color:#e0457b;
+    padding: 1em 28em;
+    font-family: 'Annie Use Your Telescope', cursive;
+}
+
+footer p{
+    color: #fff;
 }
 
 .small{
