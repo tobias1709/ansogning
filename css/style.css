@@ -22,6 +22,10 @@
     -webkit-backface-visibility: hidden;
 }
 
+.head{
+    color: #6b6b6b
+}
+
 .left{
     transform: rotate(-2deg);
     margin-right: 5em;
